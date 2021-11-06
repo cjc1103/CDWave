@@ -1,0 +1,19 @@
+:Base cdwav.hlp
+:Title CD WAV Help
+1 Contents=IDH_Contents
+1 Information
+2 Why did I write CD WAV=why
+2 What's different from other programs=different
+2 CD WAV is shareware=freeware
+2 The author=author
+1 Step by step: How to use it
+2 The steps=bystep
+2 Setting up your audio equipment=setupaudio
+2 Tuning volume settings=tune
+2 Actual recording=actualrecording
+2 Splitting=splitfile
+2 Burning=burn
+1 Commands and actions
+2 New=IDH_New
+2 Open=IDH_Open
+2 Save=IDH_Save

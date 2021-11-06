@@ -1,0 +1,45 @@
+LICENSE AGREEMENT FOR CD WAVE
+
+----------------------------------------------------------------
+Summary:
+----------------------------------------------------------------
+
+CD Wave is shareware, you can try it out at no charge for a period of 30 days. After this period you must either register or stop using the program. There is no limitation to the use of CD Wave even in commercial applications like commercial radio stations, other than (local) legal restrictions. It is also allowed to distribute copies of this program, provided that the copy is complete. It is prohibited though to sell CD wave without prior permission from the author.
+
+Included in the CD Wave package is the OGG Vorbis encoder DLL (vorbis.dll) and the FLAC encoder DLL (libFLAC.dll). This is software released under LGPL and as such is free for your use. Many thanks to the Free Software Foundation for supplying this great piece of software. These libraries are excluded from this licence, and provided as an extra service. Please see the Free Software Foundation website at www.fsf.org for details, soure code and licensing information.
+
+
+----------------------------------------------------------------
+License agreement for CD Wave:
+----------------------------------------------------------------
+
+This license agreement is a legal agreement between you (either an individual or a company) and the author of this software package,
+
+MiLo Software
+Ospel, The Netherlands
+
+
+By installing or otherwise using this software you agree to be bound by this agreement. If you do not agree to be bound by the terms of this agreement, you may not install or use this software.
+
+All intellectual and other rights to this software are owned by the author of this software.
+
+You may give copies of this software package to anyone, copy it to any media, distribute it by any means, and upload it to shareware sites on the Internet, as long as the original package remains unmodified.
+
+The registration may either be used by a single person who uses the software personally on one or more computers, or installed on a single workstation used nonsimultaneously by multiple people, but not both.  This is not a concurrent use license.
+
+
+This is not free software.  Subject to the terms below, you are hereby licensed by the auhor to use this software for evaluation purposes without charge for a period of 30 days.  If you use this software after the 30 day evaluation period a registration fee is required. See the MiLo Software web site at www.milosoftware.com for information about online ordering and quantity discounts.
+
+You may, without making any payment:
+- give exact copies of the software personally to anyone, except for the purpose of extending their evaluation period;
+- distribute exact copies of the software, if done exclusively through electronic channels;
+- make as many exact copies of the software as you wish, for purposes of distribution as described above.
+
+YOU ARE SPECIFICALLY PROHIBITED FROM CHARGING, OR REQUESTING DONATIONS, FOR ANY COPIES, HOWEVER MADE, AND FROM DISTRIBUTING SUCH COPIES WITH OTHER PRODUCTS OF ANY KIND, COMMERCIAL OR OTHERWISE, WITHOUT PRIOR WRITTEN PERMISSION FROM THE AUTHOR. THE AUTHOR RESERVES THE RIGHT TO REVOKE THE ABOVE DISTRIBUTION RIGHTS AT ANY TIME, FOR ANY OR NO REASON.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES AND CONDITIONS, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, CONFORMANCE WITH DESCRIPTION, TITLE AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES OR LOST PROFITS WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE PRODUCT, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Should any term of these terms and conditions be declared void or unenforceable by any court of competent jurisdiction, such declaration shall have no effect on the remaining terms hereof.
+

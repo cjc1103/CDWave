@@ -1,0 +1,14 @@
+; snd_cpp.def : Declares the module parameters for the DLL.
+
+LIBRARY      "DISPLAY"
+DESCRIPTION  'DISPLAY Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
+	DllMain @12
+	START
+	INITPARAMS
+	ANALYZE
+	DISPLAY
+	USERUI
+	END

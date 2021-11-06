@@ -1,0 +1,41 @@
+; This file is maintained by HCW. Do not modify this file directly.
+
+[OPTIONS]
+COMPRESS=12 Hall Zeck
+LCID=0x409 0x0 0x0 ; English (United States)
+REPORT=No
+CONTENTS=IDH_Contents
+TITLE=CD Wave Help
+CNT=..\Execute\cdwav.cnt
+COPYRIGHT=(c) 1997-2003 Mike Looijmans
+HLP=..\execute\cdwav.hlp
+
+[FILES]
+.\CD WAV help file.rtf
+
+[MAP]
+IDG_RegCDWAVDlg=303
+IDH_Alternate24=1031
+IDH_AutoSplit=2001
+IDH_Contents=0
+IDH_FileAssociate=300             ; File Associations
+IDH_LoadCue=112
+IDH_New=101
+IDH_Open=102
+IDH_RecSettings=1001
+IDH_RegCDWAV=301
+IDH_RegCDWAVDef=302
+IDH_Register=9001         ; Registration info
+IDH_RelativeSplit=2013
+IDH_Save=103
+IDH_SaveCue=111
+IDH_SelectOutput=1030
+IDH_Settings=3001
+IDH_SilenceLevel=2011
+IDH_SilenceTime=2012
+
+[WINDOWS]
+main="",,27904,,(r14745599),f3
+
+[CONFIG]
+BrowseButtons()

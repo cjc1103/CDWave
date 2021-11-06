@@ -1,0 +1,39 @@
+LICENTIE OVEREENKOMST VOOR CD WAVE
+
+----------------------------------------------------------------
+Samenvatting:
+----------------------------------------------------------------
+
+CD Wave is shareware, en u mag het gratis gebruiken voor een periode van 30 dagen. Na deze termijn dient u te registreren of het programma niet meer te gebruiken. Er gelden geen beperkingen voor het gebruik, zelfs in commerciele applicaties als een radio station, anders dan (lokale) legale beperkingen. Zolang dit volledig gebeurt, dus inclusief deze documentatie is het verspreiden van kopien van dit programma toegestaan. Het is niet toegestaan CD Wave te verkopen zonder voorgaande uitdrukkelijke schriftelijke toestemming van de auteur.
+
+Ingesloten in de CD Wave installatie zijn de OGG Vorbis (vorbis.dll) en FLAC codecs (libFLAC.dll). Deze vallen onder de LGPL en zijn vrij voor gebruik, onder voorwaarden als beschreven op de website van de Free Software Foundation http://www.fsf.org. Mijn dank aan deze organisatie en haar leden voor dit uitstekend stukje software.
+
+----------------------------------------------------------------
+Licentieovereenkomst voor CD Wave:
+----------------------------------------------------------------
+
+Deze licentieovereenkomst is een juridische overeenkomst tussen u (een individu of bedrijf) en de auteur van de software,
+
+MiLo Software
+Ospel, The Netherlands
+
+Door installatie of enig ander gebruik van de software bent u gebonden aan deze overeenkomst. Indien u niet akkoord gaat met deze voorwaarden, mag u de software niet installeren of gebruiken.
+
+Intellectueel eigendom en andere rechten zijn het eigendom van de auteur van de software.
+
+U mag kopieen van de software geven aan iedereen, op elk medium, distribueren en opsturen aan shareware sites op het internet, zo lang de inhoud van het pakket ongewijzigd blijft.
+
+Een geregistreerde versie mag worden gebruikt door een persoon op een of meer computers, dan wel op een computer door meer dan een persoon, maar nooit gelijktijdig. De licentie is niet voor gelijktijdig gebruik.
+
+De software is niet gratis, behoudens onderstaande voorwaarden. U heeft, zonder betalingsplicht, het recht om de software te evalueren voor een periode van 30 dagen. Na het verstrijken van de termijn van 30 dagen bent u verplicht te registreren indien u nog van de software gebruik wilt maken. Op de MiLo software website op http://www.milosoftware.com vind u alle benodigde informatie.
+
+Het is toegestaan, zonder betaling:
+- Exacte kopieen te verstrekken aan anderen, tenzij dit tot doel heeft de evaluatieperiode te verlengen;
+- Kopieen te distribureren, zolang dit electronisch gebeurt;
+- Zoveel kopieen te maken als u wenselijk acht, voor bovenstaande doeleinden.
+
+Het is expliciet verboden om geld of enige andere donatie te vragen of te ontvangen, voor kopieen van de software. Het is eveneens verboden kopieen van de software te verspreiden gebundeld met andere producten waar een vergoeding voor gevraagd wordt. Alleen met uitdrukkelijke schriftelijke toestemming van de auteur kan hiervan worden afgeweken. De auteur houdt zich tevens het recht voor deze privileges op elk moment te kunnen intrekken zonder opgaaf van reden.
+
+De auteur stelt zich niet aansprakelijk voor schade als gevolg van het gebruik van de software of begeleidende documentatie, door uzelf of door anderen. De software wordt geleverd zonder enige garantie, zelfs niet voor het geschikt zijn voor een bepaald doel.
+
+Indien een rechtbank besluit dat een deel van deze overeenkomst in strijd is met de wet, en derhalve niet nageleefd dient te worden, dan heeft dat geen gevolgen voor de rest van deze overeenkomst.
