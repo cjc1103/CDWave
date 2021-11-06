@@ -1,0 +1,28 @@
+Bugs:
+- when I try to start a timed recording for the following day - say 6 am tomorrow morning.  If it's not past midnight, the recording starts immediately. 
+- Invalid characters in track names (?/\* etc)
+
+Requests:
+- Merge tracks (around silence)
+- Display sound level value somewhere
+- Shutdown system after recording
+
+Interface/functionality
+- Time lines or other time indication along the window
+- Stereo, show L/R channels seperately  (Quad?)
+- Color tracks in bottom wav
+- Save confirmation
+- Edit splits, Split point location adjust
+- show VU meter/LEDs after recording.
+
+New functionality
+- CD TEXT
+- Calc tempo (b.p.m.)
+- Loudness balancing (max level w/o clipping)
+- Input level control
+- Fade IN/OUT on tracks
+- Remove 'unwanted' data (zero samples)
+- Crossfade two tracks that are not adjacent
+- Save/load 'peak' files
+- Add silence to start/end of tracks
+
